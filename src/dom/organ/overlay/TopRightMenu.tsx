@@ -20,7 +20,7 @@ export default function TopRightMenu({...props}) {
                  className="box-shadow-5-b bord-r-100p noverflow border-" alt="asd" src="/wegame2.jpg" width={48} height={48} />
               </div>
               </a>
-                <Link href={"https://webqub.vercel.app/"} className=" opaci-chov--50" title="WebQub">
+                <Link href={"https://wqub.vercel.app/"} className=" opaci-chov--50" title="WebQub">
               <div className="tx-lx bg-white pa-1 pb-0 pt-2 bord-r-25" >
               <Image className="box-shadow-5-b bord-r-100p noverflow" alt="asd" src="/webqublogo.jpg" width={48} height={48} />
               </div>

@@ -71,7 +71,7 @@ const defaultGameTypesLookup:Record<string, GameType> = {
         ],
     },
     "sandbox": {
-        href: "https://webqub.vercel.app",
+        href: "https://wqub.vercel.app",
         name: "web qub",
         color:"#ff9900",
         gradient:"#009900",

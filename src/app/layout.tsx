@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 
 
 export const metadata: Metadata = {
-  title: 'WeGame',
+  title: 'WebFun',
   description: 'Game Types Guide',
 }
 
